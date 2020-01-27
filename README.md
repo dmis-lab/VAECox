@@ -24,8 +24,8 @@ python main.py
 
 ## Authors
 
-* **Sunkyu Kim**  
-* **Keonwoo Kim** 
-* **Junseok Choi**
-* **Inggeol Lee** 
-* **Jaewoo Kang** - *corresponding author ... * 
+* Sunkyu Kim
+* Keonwoo Kim 
+* Junseok Choi
+* Inggeol Lee 
+* Jaewoo Kang - *corresponding author ... * 
