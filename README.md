@@ -7,9 +7,7 @@ We pre-trained a variational autoencoder on all RNA-seq data in 20 TCGA datasets
 ## Demo
 
 ### Prerequisites
-Gene expression data of TCGA is required.
-
-The data can be downloaded in ICGC data portal.
+Gene expression data of TCGA is required. The data can be downloaded in ICGC data portal.
 
 https://dcc.icgc.org/
 
