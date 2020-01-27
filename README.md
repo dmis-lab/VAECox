@@ -28,4 +28,4 @@ python main.py
 * Keonwoo Kim 
 * Junseok Choi
 * Inggeol Lee 
-* Jaewoo Kang - *corresponding author ... * 
+* Jaewoo Kang - kangj@korea.ac.kr
