@@ -44,11 +44,8 @@ def main():
     parser.add_argument("--epochs", type=int, default=20)
     parser.add_argument("--random_split", '-rs', default=False, action='store_true')
     parser.add_argument('--batch_size', '-bs', default=1000, type=int)
-    # parser.add_argument('--pretrained', '-pr', default='pan_vae_best', type=str)
     # find path to DAE
-    #parser.add_argument('--pretrained', '-pr', default='../vae/ching_BLCA/best_model', type=str)
-    #parser.add_argument('--pretrained', '-pr', default='results/vae/vae_200115_new811/final_model', type=str)
-    parser.add_argument('--pretrained', '-pr', default='results/vae_pretrained/vae/final_model', type=str)
+    parser.add_argument('--pretrained', '-pr', default='results/vae/vae_pretrained/vae/final_model', type=str)
     parser.add_argument('--weight_sparsity', type=int, default=0)
     parser.add_argument('--pool_func', '-pf', type=str, default='None')
     parser.add_argument('--eval', '-ev', default=False, action='store_true')
