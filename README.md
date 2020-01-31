@@ -9,7 +9,8 @@ We pre-trained a variational autoencoder on all RNA-seq data in 20 TCGA datasets
 ## Demo
 
 ### Prerequisites
-Gene expression data of TCGA is required. The data can be downloaded in ICGC data portal.
+We provide toy data to run our implementation.
+The full TCGA gene expression data can be downloaded in ICGC data portal.
 
 https://dcc.icgc.org/
 
@@ -17,7 +18,6 @@ https://dcc.icgc.org/
 ```
 python vae_run.py
 ```
-
 
 ### Training and evaluating VAECox
 ```
