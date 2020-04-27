@@ -31,3 +31,7 @@ python main.py
 * Junseok Choi
 * Inggeol Lee 
 * Jaewoo Kang - kangj@korea.ac.kr
+
+## Publication
+
+My paper 'Improved survival analysis by learning shared genomic information from pan-cancer data' has been accepted for presentation at ISMB 2020 and for inclusion in the conference proceedings, which will be published online in the journal Bioinformatics.   
