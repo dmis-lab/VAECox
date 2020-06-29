@@ -28,7 +28,7 @@ python main.py
 
 * Sunkyu Kim
 * Keonwoo Kim 
-* Junseok Choi
+* Junseok Choe
 * Inggeol Lee 
 * Jaewoo Kang - kangj@korea.ac.kr
 
