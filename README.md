@@ -34,4 +34,8 @@ python main.py
 
 ## Publication
 
-My paper 'Improved survival analysis by learning shared genomic information from pan-cancer data' has been accepted for presentation at ISMB 2020 and for inclusion in the conference proceedings, which will be published online in the journal Bioinformatics.   
+My paper 'Improved survival analysis by learning shared genomic information from pan-cancer data' has been accepted for presentation at ISMB 2020 and for inclusion in the conference proceedings, which is published online in the journal Bioinformatics.
+
+## Citation
+Sunkyu Kim, Keonwoo Kim, Junseok Choe, Inggeol Lee, Jaewoo Kang, Improved survival analysis by learning shared genomic information from pan-cancer data, Bioinformatics, Volume 36, Issue Supplement_1, July 2020, Pages i389–i398, https://doi.org/10.1093/bioinformatics/btaa462
+
